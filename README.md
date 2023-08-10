@@ -1,4 +1,4 @@
-# Example: Trigger process on the first business day of the month
+# Trigger a Robocorp Control Room process on the first business day of the month
 
 The purpose of this robot:
 
